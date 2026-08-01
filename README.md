@@ -4,6 +4,8 @@
 - 💻 Currently learning: Front-End Development & building my skills 
 - ⚡ Fun Fact: I Love Development and Development Love Me
 
+- # A responsive Study sync website built using HTML and CSS .Live Demo :  [https://github.com/TahiraDev691/study-sync-project]
+
 - 📧 You can reach me at:rushnaali195@gmail.com
 
 
